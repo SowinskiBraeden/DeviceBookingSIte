@@ -1,0 +1,13 @@
+# Environment / Virtual Environment files
+.env
+.venv
+bin
+include/
+lib/
+lib64
+lib64/
+
+# Pycache
+__pycache__
+__pycache__/
+*/__pycache__/
